@@ -1,0 +1,6 @@
+use Test;
+use SoftMaker2PDF;
+
+pass "replace me";
+
+done-testing;

@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides a binary to drive SoftMaker products to produce PDF output",
+  "license": "Artistic-2.0",
+  "name": "SoftMaker2PDF",
+  "perl": "6.d",
+  "provides": {
+    "SoftMaker2PDF": "lib/SoftMaker2PDF.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
